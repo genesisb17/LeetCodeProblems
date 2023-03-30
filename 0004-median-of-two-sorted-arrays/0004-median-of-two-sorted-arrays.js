@@ -1,4 +1,3 @@
-//works unless there's an empty array. this works on 2000/2094 test cases 
 var findMedianSortedArrays = function(nums1, nums2) {
     let track1 = 0;
     let track2 = 0;
@@ -13,8 +12,7 @@ var findMedianSortedArrays = function(nums1, nums2) {
      if(!nums2 || nums2.length == 0){
         let middle = Math.floor(nums1.length/2);
         return length % 2 == 1 ? nums1[middle] : (nums1[middle] + nums1[middle-1])/2;
-    }
- 
+    } 
  
     for(let i = 0; i < length/2 + 1; i++){
         first = second;
@@ -25,7 +23,6 @@ var findMedianSortedArrays = function(nums1, nums2) {
             second = nums2[track2];
             track2++;
         }
-        console.log(`first = ${first}, second ${second}`)
     }
 
     return length % 2 == 1 ? first : (first + second)/2;
