@@ -3,9 +3,6 @@
  * @return {boolean}
  */
 var isUgly = function(n) {
-    if(n == 1 || n == 2 || n == 3 || n == 5){
-        return true;
-    }
     
     while(n > 1){
         if(n % 5 == 0){
