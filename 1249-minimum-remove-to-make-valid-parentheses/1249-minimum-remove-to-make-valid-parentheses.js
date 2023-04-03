@@ -19,7 +19,7 @@ var minRemoveToMakeValid = function(s) {
                 invalid.add(i);
             }
             else{
-            let curr = brackets.pop();
+                brackets.pop();
             }
               
         }
