@@ -1,4 +1,7 @@
-
+/**
+Leverages the Booyer More Majority Vote algorithm 
+found a great video here - https://www.youtube.com/watch?v=gY-I8uQrCkk
+*/
 
 var majorityElement = function(nums) {
     let candidate = nums[0];
