@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/genesisb17/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/genesisb17/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/genesisb17/LeetCodeProblems/tree/master/0186-reverse-words-in-a-string-ii) |
 ## Math
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/genesisb17/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0457-circular-array-loop](https://github.com/genesisb17/LeetCodeProblems/tree/master/0457-circular-array-loop) |
 ## Linked List
 |  |
@@ -47,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/genesisb17/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/genesisb17/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
