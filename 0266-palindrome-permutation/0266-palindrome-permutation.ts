@@ -10,10 +10,7 @@ function canPermutePalindrome(str: string): boolean {
   }
   
   
-  if((str.length % 2 == 0 && set.size == 0) || (str.length % 2 == 1 && set.size == 1)) {
-    return true
-  }
-  return false;
+return set.size <= 1;
   
     
 };
