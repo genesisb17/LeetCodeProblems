@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/genesisb17/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/genesisb17/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/genesisb17/LeetCodeProblems/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/genesisb17/LeetCodeProblems/tree/master/0186-reverse-words-in-a-string-ii) |
 ## Math
 |  |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/genesisb17/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/genesisb17/LeetCodeProblems/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0457-circular-array-loop](https://github.com/genesisb17/LeetCodeProblems/tree/master/0457-circular-array-loop) |
 ## Linked List
 |  |
@@ -53,4 +55,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/genesisb17/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/genesisb17/LeetCodeProblems/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 <!---LeetCode Topics End-->
