@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/genesisb17/LeetCodeProblems/tree/master/0011-container-with-most-water) |
+| [0056-merge-intervals](https://github.com/genesisb17/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/genesisb17/LeetCodeProblems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0251-flatten-2d-vector](https://github.com/genesisb17/LeetCodeProblems/tree/master/0251-flatten-2d-vector) |
@@ -74,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0251-flatten-2d-vector](https://github.com/genesisb17/LeetCodeProblems/tree/master/0251-flatten-2d-vector) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/genesisb17/LeetCodeProblems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
