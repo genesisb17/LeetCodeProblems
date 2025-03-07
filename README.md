@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/genesisb17/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0251-flatten-2d-vector](https://github.com/genesisb17/LeetCodeProblems/tree/master/0251-flatten-2d-vector) |
 | [0457-circular-array-loop](https://github.com/genesisb17/LeetCodeProblems/tree/master/0457-circular-array-loop) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0186-reverse-words-in-a-string-ii](https://github.com/genesisb17/LeetCodeProblems/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0189-rotate-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/genesisb17/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
+| [0251-flatten-2d-vector](https://github.com/genesisb17/LeetCodeProblems/tree/master/0251-flatten-2d-vector) |
 | [0457-circular-array-loop](https://github.com/genesisb17/LeetCodeProblems/tree/master/0457-circular-array-loop) |
 ## Greedy
 |  |
@@ -62,4 +64,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0266-palindrome-permutation](https://github.com/genesisb17/LeetCodeProblems/tree/master/0266-palindrome-permutation) |
+## Design
+|  |
+| ------- |
+| [0251-flatten-2d-vector](https://github.com/genesisb17/LeetCodeProblems/tree/master/0251-flatten-2d-vector) |
+## Iterator
+|  |
+| ------- |
+| [0251-flatten-2d-vector](https://github.com/genesisb17/LeetCodeProblems/tree/master/0251-flatten-2d-vector) |
 <!---LeetCode Topics End-->
