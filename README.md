@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/genesisb17/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/genesisb17/LeetCodeProblems/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
@@ -109,9 +111,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
