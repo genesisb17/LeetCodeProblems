@@ -13,6 +13,23 @@
  */
 
 function preorderTraversal(root: TreeNode | null): number[] {
+    
+   let out: number[] = [];
+   dfs(root, out);
+   return out;
+    
+};
+
+function dfs(root: TreeNode | null, out: number[]){
+    if(root){
+        out.push(root.val);
+        dfs(root.left, out);
+        dfs(root.right, out)
+    }
+}
+
+ /** 
+    //iterative
     if(root == null){
         return [];
     }
@@ -32,5 +49,4 @@ function preorderTraversal(root: TreeNode | null): number[] {
         }
     }
     return out;
-    
-};
+    */
