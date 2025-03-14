@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/genesisb17/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/genesisb17/LeetCodeProblems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/genesisb17/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0251-flatten-2d-vector](https://github.com/genesisb17/LeetCodeProblems/tree/master/0251-flatten-2d-vector) |
 | [0457-circular-array-loop](https://github.com/genesisb17/LeetCodeProblems/tree/master/0457-circular-array-loop) |
 | [0628-maximum-product-of-three-numbers](https://github.com/genesisb17/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -87,4 +88,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/genesisb17/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/genesisb17/LeetCodeProblems/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/genesisb17/LeetCodeProblems/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/genesisb17/LeetCodeProblems/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/genesisb17/LeetCodeProblems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
