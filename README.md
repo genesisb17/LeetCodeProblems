@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0189-rotate-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/genesisb17/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [2288-count-operations-to-obtain-zero](https://github.com/genesisb17/LeetCodeProblems/tree/master/2288-count-operations-to-obtain-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,4 +123,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/genesisb17/LeetCodeProblems/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
