@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/genesisb17/LeetCodeProblems/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/genesisb17/LeetCodeProblems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/genesisb17/LeetCodeProblems/tree/master/0200-number-of-islands) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/genesisb17/LeetCodeProblems/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/genesisb17/LeetCodeProblems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/genesisb17/LeetCodeProblems/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/genesisb17/LeetCodeProblems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Simulation
@@ -138,4 +141,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2169-simple-bank-system](https://github.com/genesisb17/LeetCodeProblems/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/genesisb17/LeetCodeProblems/tree/master/2288-count-operations-to-obtain-zero) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/genesisb17/LeetCodeProblems/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
