@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/genesisb17/LeetCodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/genesisb17/LeetCodeProblems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/genesisb17/LeetCodeProblems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/genesisb17/LeetCodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/genesisb17/LeetCodeProblems/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/genesisb17/LeetCodeProblems/tree/master/0200-number-of-islands) |
 ## Union Find
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/genesisb17/LeetCodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/genesisb17/LeetCodeProblems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/genesisb17/LeetCodeProblems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -132,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/genesisb17/LeetCodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/genesisb17/LeetCodeProblems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/genesisb17/LeetCodeProblems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
