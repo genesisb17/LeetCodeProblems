@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/genesisb17/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0251-flatten-2d-vector](https://github.com/genesisb17/LeetCodeProblems/tree/master/0251-flatten-2d-vector) |
 | [0457-circular-array-loop](https://github.com/genesisb17/LeetCodeProblems/tree/master/0457-circular-array-loop) |
+| [0605-can-place-flowers](https://github.com/genesisb17/LeetCodeProblems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/genesisb17/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2169-simple-bank-system](https://github.com/genesisb17/LeetCodeProblems/tree/master/2169-simple-bank-system) |
 | [2352-design-an-atm-machine](https://github.com/genesisb17/LeetCodeProblems/tree/master/2352-design-an-atm-machine) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/genesisb17/LeetCodeProblems/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/genesisb17/LeetCodeProblems/tree/master/0605-can-place-flowers) |
 | [2352-design-an-atm-machine](https://github.com/genesisb17/LeetCodeProblems/tree/master/2352-design-an-atm-machine) |
 ## String
 |  |
