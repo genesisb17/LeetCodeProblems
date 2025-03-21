@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0189-rotate-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/genesisb17/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0956-number-of-music-playlists](https://github.com/genesisb17/LeetCodeProblems/tree/master/0956-number-of-music-playlists) |
 | [2288-count-operations-to-obtain-zero](https://github.com/genesisb17/LeetCodeProblems/tree/master/2288-count-operations-to-obtain-zero) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/genesisb17/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0956-number-of-music-playlists](https://github.com/genesisb17/LeetCodeProblems/tree/master/0956-number-of-music-playlists) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -158,4 +160,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/genesisb17/LeetCodeProblems/tree/master/0113-path-sum-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0956-number-of-music-playlists](https://github.com/genesisb17/LeetCodeProblems/tree/master/0956-number-of-music-playlists) |
 <!---LeetCode Topics End-->
