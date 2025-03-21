@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/genesisb17/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
+| [0838-design-linked-list](https://github.com/genesisb17/LeetCodeProblems/tree/master/0838-design-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0251-flatten-2d-vector](https://github.com/genesisb17/LeetCodeProblems/tree/master/0251-flatten-2d-vector) |
 | [0348-design-tic-tac-toe](https://github.com/genesisb17/LeetCodeProblems/tree/master/0348-design-tic-tac-toe) |
+| [0838-design-linked-list](https://github.com/genesisb17/LeetCodeProblems/tree/master/0838-design-linked-list) |
 | [2169-simple-bank-system](https://github.com/genesisb17/LeetCodeProblems/tree/master/2169-simple-bank-system) |
 | [2352-design-an-atm-machine](https://github.com/genesisb17/LeetCodeProblems/tree/master/2352-design-an-atm-machine) |
 ## Iterator
