@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/genesisb17/LeetCodeProblems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/genesisb17/LeetCodeProblems/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/genesisb17/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0251-flatten-2d-vector](https://github.com/genesisb17/LeetCodeProblems/tree/master/0251-flatten-2d-vector) |
 | [0348-design-tic-tac-toe](https://github.com/genesisb17/LeetCodeProblems/tree/master/0348-design-tic-tac-toe) |
 | [0457-circular-array-loop](https://github.com/genesisb17/LeetCodeProblems/tree/master/0457-circular-array-loop) |
@@ -164,4 +165,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0956-number-of-music-playlists](https://github.com/genesisb17/LeetCodeProblems/tree/master/0956-number-of-music-playlists) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/genesisb17/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
