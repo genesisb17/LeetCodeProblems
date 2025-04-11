@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/genesisb17/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0032-longest-valid-parentheses](https://github.com/genesisb17/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/genesisb17/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/genesisb17/LeetCodeProblems/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/genesisb17/LeetCodeProblems/tree/master/0186-reverse-words-in-a-string-ii) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/genesisb17/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/genesisb17/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/genesisb17/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0956-number-of-music-playlists](https://github.com/genesisb17/LeetCodeProblems/tree/master/0956-number-of-music-playlists) |
 ## Depth-First Search
