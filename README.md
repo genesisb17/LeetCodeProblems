@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/genesisb17/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0251-flatten-2d-vector](https://github.com/genesisb17/LeetCodeProblems/tree/master/0251-flatten-2d-vector) |
 | [0348-design-tic-tac-toe](https://github.com/genesisb17/LeetCodeProblems/tree/master/0348-design-tic-tac-toe) |
+| [0384-shuffle-an-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0384-shuffle-an-array) |
 | [0457-circular-array-loop](https://github.com/genesisb17/LeetCodeProblems/tree/master/0457-circular-array-loop) |
 | [0605-can-place-flowers](https://github.com/genesisb17/LeetCodeProblems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/genesisb17/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0384-shuffle-an-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0384-shuffle-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/genesisb17/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0956-number-of-music-playlists](https://github.com/genesisb17/LeetCodeProblems/tree/master/0956-number-of-music-playlists) |
 | [2288-count-operations-to-obtain-zero](https://github.com/genesisb17/LeetCodeProblems/tree/master/2288-count-operations-to-obtain-zero) |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0251-flatten-2d-vector](https://github.com/genesisb17/LeetCodeProblems/tree/master/0251-flatten-2d-vector) |
 | [0348-design-tic-tac-toe](https://github.com/genesisb17/LeetCodeProblems/tree/master/0348-design-tic-tac-toe) |
+| [0384-shuffle-an-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0384-shuffle-an-array) |
 | [0838-design-linked-list](https://github.com/genesisb17/LeetCodeProblems/tree/master/0838-design-linked-list) |
 | [2169-simple-bank-system](https://github.com/genesisb17/LeetCodeProblems/tree/master/2169-simple-bank-system) |
 | [2352-design-an-atm-machine](https://github.com/genesisb17/LeetCodeProblems/tree/master/2352-design-an-atm-machine) |
@@ -175,4 +178,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/genesisb17/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
