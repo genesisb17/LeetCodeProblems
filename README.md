@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/genesisb17/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/genesisb17/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0251-flatten-2d-vector](https://github.com/genesisb17/LeetCodeProblems/tree/master/0251-flatten-2d-vector) |
+| [0303-range-sum-query-immutable](https://github.com/genesisb17/LeetCodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0348-design-tic-tac-toe](https://github.com/genesisb17/LeetCodeProblems/tree/master/0348-design-tic-tac-toe) |
 | [0384-shuffle-an-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0384-shuffle-an-array) |
 | [0457-circular-array-loop](https://github.com/genesisb17/LeetCodeProblems/tree/master/0457-circular-array-loop) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0251-flatten-2d-vector](https://github.com/genesisb17/LeetCodeProblems/tree/master/0251-flatten-2d-vector) |
+| [0303-range-sum-query-immutable](https://github.com/genesisb17/LeetCodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0348-design-tic-tac-toe](https://github.com/genesisb17/LeetCodeProblems/tree/master/0348-design-tic-tac-toe) |
 | [0384-shuffle-an-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0384-shuffle-an-array) |
 | [0838-design-linked-list](https://github.com/genesisb17/LeetCodeProblems/tree/master/0838-design-linked-list) |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/genesisb17/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/genesisb17/LeetCodeProblems/tree/master/0303-range-sum-query-immutable) |
 ## Randomized
 |  |
 | ------- |
