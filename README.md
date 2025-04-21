@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0348-design-tic-tac-toe](https://github.com/genesisb17/LeetCodeProblems/tree/master/0348-design-tic-tac-toe) |
 | [0384-shuffle-an-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0384-shuffle-an-array) |
 | [0457-circular-array-loop](https://github.com/genesisb17/LeetCodeProblems/tree/master/0457-circular-array-loop) |
+| [0525-contiguous-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/genesisb17/LeetCodeProblems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/genesisb17/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2169-simple-bank-system](https://github.com/genesisb17/LeetCodeProblems/tree/master/2169-simple-bank-system) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0266-palindrome-permutation](https://github.com/genesisb17/LeetCodeProblems/tree/master/0266-palindrome-permutation) |
 | [0348-design-tic-tac-toe](https://github.com/genesisb17/LeetCodeProblems/tree/master/0348-design-tic-tac-toe) |
 | [0457-circular-array-loop](https://github.com/genesisb17/LeetCodeProblems/tree/master/0457-circular-array-loop) |
+| [0525-contiguous-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0525-contiguous-array) |
 | [2169-simple-bank-system](https://github.com/genesisb17/LeetCodeProblems/tree/master/2169-simple-bank-system) |
 ## Linked List
 |  |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/genesisb17/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/genesisb17/LeetCodeProblems/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0525-contiguous-array) |
 ## Randomized
 |  |
 | ------- |
