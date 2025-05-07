@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/genesisb17/LeetCodeProblems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/genesisb17/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1190-smallest-common-region](https://github.com/genesisb17/LeetCodeProblems/tree/master/1190-smallest-common-region) |
 | [2169-simple-bank-system](https://github.com/genesisb17/LeetCodeProblems/tree/master/2169-simple-bank-system) |
 | [2352-design-an-atm-machine](https://github.com/genesisb17/LeetCodeProblems/tree/master/2352-design-an-atm-machine) |
 ## Two Pointers
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0186-reverse-words-in-a-string-ii](https://github.com/genesisb17/LeetCodeProblems/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0242-valid-anagram](https://github.com/genesisb17/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0266-palindrome-permutation](https://github.com/genesisb17/LeetCodeProblems/tree/master/0266-palindrome-permutation) |
+| [1190-smallest-common-region](https://github.com/genesisb17/LeetCodeProblems/tree/master/1190-smallest-common-region) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0348-design-tic-tac-toe](https://github.com/genesisb17/LeetCodeProblems/tree/master/0348-design-tic-tac-toe) |
 | [0457-circular-array-loop](https://github.com/genesisb17/LeetCodeProblems/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/genesisb17/LeetCodeProblems/tree/master/0525-contiguous-array) |
+| [1190-smallest-common-region](https://github.com/genesisb17/LeetCodeProblems/tree/master/1190-smallest-common-region) |
 | [2169-simple-bank-system](https://github.com/genesisb17/LeetCodeProblems/tree/master/2169-simple-bank-system) |
 ## Linked List
 |  |
@@ -131,12 +134,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/genesisb17/LeetCodeProblems/tree/master/0200-number-of-islands) |
+| [1190-smallest-common-region](https://github.com/genesisb17/LeetCodeProblems/tree/master/1190-smallest-common-region) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/genesisb17/LeetCodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/genesisb17/LeetCodeProblems/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/genesisb17/LeetCodeProblems/tree/master/0200-number-of-islands) |
+| [1190-smallest-common-region](https://github.com/genesisb17/LeetCodeProblems/tree/master/1190-smallest-common-region) |
 ## Union Find
 |  |
 | ------- |
@@ -155,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/genesisb17/LeetCodeProblems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/genesisb17/LeetCodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1190-smallest-common-region](https://github.com/genesisb17/LeetCodeProblems/tree/master/1190-smallest-common-region) |
 ## Binary Tree
 |  |
 | ------- |
